@@ -15,6 +15,7 @@ WHAT'S INCLUDED
 -media.py
 -entertainment_center.py
 -fresh_tomatoes.py
+-README.txt
 
 
 CREATOR
