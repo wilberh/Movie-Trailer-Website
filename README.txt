@@ -1,4 +1,4 @@
-This Movie Trailer Website Project#1 consists of 3 Python version 2.7.9 files that store a list of movies titles, 
+This Movie Trailer Website (Audacity) Project#1 consists of 3 Python version 2.7.9 files that store a list of movies titles, 
 along with its respective box art imagery and movie trailer website. 
 
 The Movie Class in the media.py module creates a data structure to store your favorite movies, including movie title, 
