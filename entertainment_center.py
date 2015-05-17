@@ -13,7 +13,7 @@ toy_story = media.Movie("Toy Story",
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet.",
                      "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
-                     "https://www.youtube.com/watch?v=_Tkc5pQp_JE")  #NOTE: original link not working http://www.youtube.com/watch?v=-9ceBgWV8io
+                     "https://www.youtube.com/watch?v=_Tkc5pQp_JE") 
 
 
 prometheus = media.Movie("Prometheus",
