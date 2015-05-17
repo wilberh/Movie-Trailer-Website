@@ -24,9 +24,7 @@ within the download you'll find the following files:
 
 
 ## BUGS AND FEATURE REQUESTS
-Have a bug or a feature request? Please open an issue,
-github.com/wilberh/Movie-Trailer-Website/issues/new
-
+Have a bug or a feature request? Please open an [issue](https://github.com/wilberh/Movie-Trailer-Website/issues/new).
 
 ## DOCUMENTATION
 This Movie-Trailer-Website documentation, included in this repo in the root directory, is built with Python version 2.7.9.  
@@ -40,6 +38,6 @@ The docs may also be run locally.
 
 
 ## CREATOR
-- Wilber Hernandez
+**Wilber Hernandez**
 - github.com/wilberh
 - twitter.com/wilberh
