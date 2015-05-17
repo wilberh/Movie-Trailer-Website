@@ -39,7 +39,7 @@ The docs may also be run locally.
 - 3.  The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
 
 
-CREATOR
+## CREATOR
 - Wilber Hernandez
 - github.com/wilberh
 - twitter.com/wilberh
