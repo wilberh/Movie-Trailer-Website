@@ -1,3 +1,5 @@
+Movie-Trailer-Website
+
 This project will build a Movie Trailer Website where users can see my favorite movies and watch the trailers. 
 The code stores a list of movie titles, poster images, and movie trailer URLs. 
 This information is displayed on a web page and allow users to review the movies and watch the trailers.
@@ -35,8 +37,8 @@ The docs may also be run locally.
 
 RUNNING DOCUMENTATION LOCALLY
 1. If necessary, install Python version 2.7.9
-2. Down the root /Movie-Trailer-Website directory, run entertainment_center.py in the command line
-3.  The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
+2. From the root /Movie-Trailer-Website directory, run entertainment_center.py in the command line
+3. The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
 
 
 CREATOR
