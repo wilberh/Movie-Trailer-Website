@@ -42,3 +42,5 @@ The docs may also be run locally.
 **Wilber Hernandez**
 - github.com/wilberh
 - twitter.com/wilberh
+- linkedin.com/in/wilberh
+
